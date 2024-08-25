@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+.img img{
+ height: 550px;
+  padding:50px;
+}
+.img{
+height: 600px;
+width: 400px;
+background-image:linear-gradient(rgb(255, 0, 0), rgb(0, 0, 255)), url("https://previews.123rf.com/images/lider263/lider2631705/lider263170500001/77402143-light-background-design-web-abstract-low-poly.jpg");
+margin-left: 150px;
+margin-top: 50px;
+}
+h3{
+    color: red;
+}
+.child-1{
+    background-image:linear-gradient(rgb(255, 0, 0), rgb(0, 0, 255)), url("https://previews.123rf.com/images/lider263/lider2631705/lider263170500001/77402143-light-background-design-web-abstract-low-poly.jpg");
+    background-size: cover;
+       background-repeat: no-repeat;
+    height: 5px;
+    width: 250px;
+}
+.main{
+    display: flex;
+   
+}
+.child-2{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+ul{
+    margin-top: 5px;
+}
+ul li{
+    list-style-type: none;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+.text-1{
+   margin-top: 50px;
+    
+}
+.material-symbols-outlined{
+    color: rgb(238, 5, 5);
+    margin-top: 10px;
+    margin-right: 5px;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
